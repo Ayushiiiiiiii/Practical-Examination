@@ -1,7 +1,9 @@
 <html>
+
 <head>
     <title>Question-1</title>
 </head>
+
 <body>
 <table style="border:1px solid black; height: 100%;width:100%;">
 <tr style="height:33%">
@@ -19,6 +21,7 @@
 <td style="height:33%; border:1px solid black;text-align:center;width:25%">H</td>
 <td colspan="2" style="height:33%; border:1px solid black;text-align:center;width:25%">Some Image Here</td>
 </tr>
+
 </table>
 </table>
 </html>
